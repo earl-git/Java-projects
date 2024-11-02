@@ -38,3 +38,11 @@ It outputs both individual grades for each test and the average score with the c
 
 **File:** `TestAvgandGrade.java`
 
+### 4. Order Calculator GUI
+
+A GUI application that calculates the total cost for orders at a bagel house. Users can select from different types of bagels, toppings, and coffee, with costs dynamically displayed based on choices. Includes:
+- Menu options for calculating, browsing, and displaying app information
+- Real-time cost updates for selected items with applied sales tax
+- User-friendly interface with Java Swing components like JRadioButton, JCheckBox, and JButton
+
+**File:** `OrderCalculatorGUI.java`
